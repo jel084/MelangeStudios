@@ -1,0 +1,15 @@
+:root{
+    --background_1:#800120;
+    --background_2:#F8F4EC;
+    --background_3:#F6F6F6;
+    --background_4:#131313;
+
+    --heading_size_1: 40px;
+    --heading_size_2: 24px;
+
+    --body_size_1: 24px;
+    --body_size_2: 16px;
+}
+
+
+/* to use the color in css styling, syntax is var(--variablename)*/
